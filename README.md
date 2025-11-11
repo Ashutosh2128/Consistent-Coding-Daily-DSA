@@ -8,3 +8,7 @@
 #        Two Sum - Pair with Given Sum (https://www.geeksforgeeks.org/problems/key-pair5616/1)
 #        Find Pivot Index (https://leetcode.com/problems/find-pivot-index/)
 
+# Day-3: Missing Number (https://leetcode.com/problems/missing-number/description/)
+#        Remove Duplicates from Sorted Array (https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)
+#        Maximum Average Subarray I (https://leetcode.com/problems/maximum-average-subarray-i/description/)
+
