@@ -12,3 +12,7 @@
 #        Remove Duplicates from Sorted Array (https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)
 #        Maximum Average Subarray I (https://leetcode.com/problems/maximum-average-subarray-i/description/)
 
+# Day-4: Sort Colors (https://leetcode.com/problems/sort-colors/description/)
+#        Find the Duplicate Number (https://leetcode.com/problems/find-the-duplicate-number/description/)
+#        First Repeating Element ()
+
