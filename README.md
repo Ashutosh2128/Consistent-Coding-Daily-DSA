@@ -16,3 +16,7 @@
 #        Find the Duplicate Number (https://leetcode.com/problems/find-the-duplicate-number/description/)
 #        First Repeating Element ()
 
+# Day-5: Common in 3 Sorted Arrays (https://www.geeksforgeeks.org/problems/common-elements1132/1)
+#        Spiral Matrix (https://leetcode.com/problems/spiral-matrix/)
+#        Add two numbers represented by two arrays (https://www.geeksforgeeks.org/problems/add-two-numbers-represented-by-two-arrays2408/1)
+
