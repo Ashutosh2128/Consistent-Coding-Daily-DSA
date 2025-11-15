@@ -20,3 +20,7 @@
 #        Spiral Matrix (https://leetcode.com/problems/spiral-matrix/)
 #        Add two numbers represented by two arrays (https://www.geeksforgeeks.org/problems/add-two-numbers-represented-by-two-arrays2408/1)
 
+# Day-6: Find First and Last Position of Element in Sorted Array (https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/)
+#        Rotate Image (https://leetcode.com/problems/rotate-image/)
+#        Maximum Subarray (https://leetcode.com/problems/maximum-subarray/description/)
+
