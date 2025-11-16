@@ -24,3 +24,5 @@
 #        Rotate Image (https://leetcode.com/problems/rotate-image/)
 #        Maximum Subarray (https://leetcode.com/problems/maximum-subarray/description/)
 
+# Day-7: Peak Index in a Mountain Array (https://leetcode.com/problems/peak-index-in-a-mountain-array/description/)
+#        
