@@ -25,4 +25,7 @@
 #        Maximum Subarray (https://leetcode.com/problems/maximum-subarray/description/)
 
 # Day-7: Peak Index in a Mountain Array (https://leetcode.com/problems/peak-index-in-a-mountain-array/description/)
-#        
+
+# Day-8: Search in Rotated Sorted Array (https://leetcode.com/problems/search-in-rotated-sorted-array/description/)
+#        Sqrt(x) (https://leetcode.com/problems/sqrtx/description/)
+#        Search a 2D Matrix (https://leetcode.com/problems/search-a-2d-matrix/description/)
