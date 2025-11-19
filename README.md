@@ -32,3 +32,7 @@
 
 # Day-9: Single Element in a Sorted Array (https://leetcode.com/problems/single-element-in-a-sorted-array/description/)
 #        Find Peak Element (https://leetcode.com/problems/find-peak-element/description/)
+
+# Day-10: Single Number II (https://leetcode.com/problems/single-number-ii/description/)
+#         Single Number III (https://leetcode.com/problems/single-number-iii/description/)
+#         Row With Maximum Ones (https://leetcode.com/problems/row-with-maximum-ones/)
