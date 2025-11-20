@@ -36,3 +36,6 @@
 # Day-10: Single Number II (https://leetcode.com/problems/single-number-ii/description/)
 #         Single Number III (https://leetcode.com/problems/single-number-iii/description/)
 #         Row With Maximum Ones (https://leetcode.com/problems/row-with-maximum-ones/)
+
+# Day-11: Majority Element (https://leetcode.com/problems/majority-element/)
+#         Majority Element II (https://leetcode.com/problems/majority-element-ii/description/)
