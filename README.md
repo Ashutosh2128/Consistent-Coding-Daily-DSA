@@ -41,3 +41,6 @@
 #         Majority Element II (https://leetcode.com/problems/majority-element-ii/description/)
 
 # Day-12: Divide Two Integers (https://leetcode.com/problems/divide-two-integers/description/)
+
+# Day-13: Koko Eating Bananas (https://leetcode.com/problems/koko-eating-bananas/description/)
+#         Minimum Number of Days to Make m Bouquets (https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/description/)
