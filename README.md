@@ -44,3 +44,7 @@
 
 # Day-13: Koko Eating Bananas (https://leetcode.com/problems/koko-eating-bananas/description/)
 #         Minimum Number of Days to Make m Bouquets (https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/description/)
+
+# Day-14: Selection Sort (https://www.geeksforgeeks.org/problems/selection-sort/1)
+#         Bubble Sort (https://www.geeksforgeeks.org/problems/bubble-sort/1)
+#         Insertion Sort (https://www.geeksforgeeks.org/problems/insertion-sort/1)
