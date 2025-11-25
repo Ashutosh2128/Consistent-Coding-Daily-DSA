@@ -50,3 +50,5 @@
 #         Insertion Sort (https://www.geeksforgeeks.org/problems/insertion-sort/1)
 
 # Day-15: K-diff Pairs in an Array (https://leetcode.com/problems/k-diff-pairs-in-an-array/description/)
+
+# Day-16: Find K Closest Elements (https://leetcode.com/problems/find-k-closest-elements/description/)
