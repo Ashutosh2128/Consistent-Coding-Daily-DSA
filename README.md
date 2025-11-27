@@ -55,3 +55,6 @@
 
 # Day-17: Two Sum (https://leetcode.com/problems/two-sum/description/)
 #         Allocate Minimum Pages (https://www.geeksforgeeks.org/problems/allocate-minimum-number-of-pages0937/1)
+
+# Day-18: The Painter's Partition Problem-II (https://www.geeksforgeeks.org/problems/the-painters-partition-problem1535/1)
+#         Aggressive Cows (https://www.geeksforgeeks.org/problems/aggressive-cows/1)
