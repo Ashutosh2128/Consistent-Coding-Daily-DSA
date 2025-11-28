@@ -58,3 +58,5 @@
 
 # Day-18: The Painter's Partition Problem-II (https://www.geeksforgeeks.org/problems/the-painters-partition-problem1535/1)
 #         Aggressive Cows (https://www.geeksforgeeks.org/problems/aggressive-cows/1)
+
+# Day-19: Eko - eko (https://www.spoj.com/problems/EKO/)
