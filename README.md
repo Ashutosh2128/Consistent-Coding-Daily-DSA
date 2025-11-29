@@ -60,3 +60,5 @@
 #         Aggressive Cows (https://www.geeksforgeeks.org/problems/aggressive-cows/1)
 
 # Day-19: Eko - eko (https://www.spoj.com/problems/EKO/)
+
+# Day-20: PRATA - Roti Prata (https://www.spoj.com/problems/PRATA/)
