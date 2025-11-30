@@ -62,3 +62,7 @@
 # Day-19: Eko - eko (https://www.spoj.com/problems/EKO/)
 
 # Day-20: PRATA - Roti Prata (https://www.spoj.com/problems/PRATA/)
+
+# Day-21: Remove All Adjacent Duplicates In String (https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/description/)
+#         Remove All Occurrences of a Substring (https://leetcode.com/problems/remove-all-occurrences-of-a-substring/description/)
+#         Valid Palindrome II (https://leetcode.com/problems/valid-palindrome-ii/description/)
