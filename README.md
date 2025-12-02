@@ -68,3 +68,6 @@
 #         Valid Palindrome II (https://leetcode.com/problems/valid-palindrome-ii/description/)
 
 # Day-22: Palindromic Substrings (https://leetcode.com/problems/palindromic-substrings/description/)
+
+# Day-23: Decode the Message (https://leetcode.com/problems/decode-the-message/description/)
+#         Minimum Amount of Time to Collect Garbage (https://leetcode.com/problems/minimum-amount-of-time-to-collect-garbage/description/)
