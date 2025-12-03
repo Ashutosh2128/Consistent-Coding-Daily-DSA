@@ -71,3 +71,5 @@
 
 # Day-23: Decode the Message (https://leetcode.com/problems/decode-the-message/description/)
 #         Minimum Amount of Time to Collect Garbage (https://leetcode.com/problems/minimum-amount-of-time-to-collect-garbage/description/)
+
+# Day-24: Custom Sort String (https://leetcode.com/problems/custom-sort-string/)
