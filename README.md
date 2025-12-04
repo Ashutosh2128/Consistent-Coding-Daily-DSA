@@ -73,3 +73,5 @@
 #         Minimum Amount of Time to Collect Garbage (https://leetcode.com/problems/minimum-amount-of-time-to-collect-garbage/description/)
 
 # Day-24: Custom Sort String (https://leetcode.com/problems/custom-sort-string/)
+
+# Day-25: Find and Replace Pattern (https://leetcode.com/problems/find-and-replace-pattern/description/)
