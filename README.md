@@ -75,3 +75,5 @@
 # Day-24: Custom Sort String (https://leetcode.com/problems/custom-sort-string/)
 
 # Day-25: Find and Replace Pattern (https://leetcode.com/problems/find-and-replace-pattern/description/)
+
+# Day-26: Sum of Beauty of All Substrings (https://leetcode.com/problems/sum-of-beauty-of-all-substrings/description/)
