@@ -81,3 +81,5 @@
 # Day-27: Sherlock and Anagrams (https://www.hackerrank.com/challenges/sherlock-and-anagrams/problem)
 
 # Day-28: Reverse Words in a String (https://leetcode.com/problems/reverse-words-in-a-string/)
+
+# Day-29: Text Justification (https://leetcode.com/problems/text-justification/)
