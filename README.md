@@ -83,3 +83,6 @@
 # Day-28: Reverse Words in a String (https://leetcode.com/problems/reverse-words-in-a-string/)
 
 # Day-29: Text Justification (https://leetcode.com/problems/text-justification/)
+
+# Day-30: Valid Anagram (https://leetcode.com/problems/valid-anagram/description/)
+#         Reverse Only Letters (https://leetcode.com/problems/reverse-only-letters/description/)
