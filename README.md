@@ -88,3 +88,6 @@
 #         Reverse Only Letters (https://leetcode.com/problems/reverse-only-letters/description/)
 
 # Day-31: Longest Common Prefix (https://leetcode.com/problems/longest-common-prefix/description/)
+
+# Day-32: Reverse Vowels of a String (https://leetcode.com/problems/reverse-vowels-of-a-string/description/)
+#         Isomorphic Strings (https://leetcode.com/problems/isomorphic-strings/description/)
