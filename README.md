@@ -95,3 +95,5 @@
 # Day-33: Reorganize String (https://leetcode.com/problems/reorganize-string/description/)
 
 # Day-34: Group Anagrams (https://leetcode.com/problems/group-anagrams/description/)
+
+# Day-35: Longest Palindromic Substring (https://leetcode.com/problems/longest-palindromic-substring/description/)
