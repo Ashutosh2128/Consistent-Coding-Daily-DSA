@@ -97,3 +97,5 @@
 # Day-34: Group Anagrams (https://leetcode.com/problems/group-anagrams/description/)
 
 # Day-35: Longest Palindromic Substring (https://leetcode.com/problems/longest-palindromic-substring/description/)
+
+# Day-36: Find the Index of the First Occurrence in a String (https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/)
