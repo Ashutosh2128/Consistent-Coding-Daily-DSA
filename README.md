@@ -109,3 +109,5 @@
 ### Day-40: Integer to Roman (https://leetcode.com/problems/integer-to-roman/description/)
 
 ### Day-41: Zigzag Conversion (https://leetcode.com/problems/zigzag-conversion/description/)
+
+### Day-42: Largest Number (https://leetcode.com/problems/largest-number/description/)
