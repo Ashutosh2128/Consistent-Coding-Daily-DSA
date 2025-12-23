@@ -113,3 +113,5 @@
 ### Day-42: Largest Number (https://leetcode.com/problems/largest-number/description/)
 
 ### Day-43: Minimum Time Difference (https://leetcode.com/problems/minimum-time-difference/description/)
+
+### Day-44: Number of Laser Beams in a Bank (https://leetcode.com/problems/number-of-laser-beams-in-a-bank/description/)
