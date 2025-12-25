@@ -115,3 +115,7 @@
 ### Day-43: Minimum Time Difference (https://leetcode.com/problems/minimum-time-difference/description/)
 
 ### Day-44: Number of Laser Beams in a Bank (https://leetcode.com/problems/number-of-laser-beams-in-a-bank/description/)
+
+### Day-45: Fruit Into Baskets (https://leetcode.com/problems/fruit-into-baskets/)
+
+### Day-46: Max Consecutive Ones III (https://leetcode.com/problems/max-consecutive-ones-iii/description/)
