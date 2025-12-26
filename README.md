@@ -119,3 +119,5 @@
 ### Day-45: Fruit Into Baskets (https://leetcode.com/problems/fruit-into-baskets/)
 
 ### Day-46: Max Consecutive Ones III (https://leetcode.com/problems/max-consecutive-ones-iii/description/)
+
+### Day-47: Remove All Adjacent Duplicates in String II (https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/description/)
