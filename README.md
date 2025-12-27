@@ -121,3 +121,7 @@
 ### Day-46: Max Consecutive Ones III (https://leetcode.com/problems/max-consecutive-ones-iii/description/)
 
 ### Day-47: Remove All Adjacent Duplicates in String II (https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/description/)
+
+### Day-48: Count Primes (https://leetcode.com/problems/count-primes/description/)
+###         Find GCD
+###         Find LCM
