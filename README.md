@@ -125,3 +125,6 @@
 ### Day-48: Count Primes (https://leetcode.com/problems/count-primes/description/)
 ###         Find GCD
 ###         Find LCM
+
+### Day-49: Factorial (https://www.geeksforgeeks.org/problems/factorial5739/1)
+###         Power of Two (https://leetcode.com/problems/power-of-two/)
