@@ -128,3 +128,6 @@
 
 ### Day-49: Factorial (https://www.geeksforgeeks.org/problems/factorial5739/1)
 ###         Power of Two (https://leetcode.com/problems/power-of-two/)
+
+### Day-50: Fibonacci Number (https://leetcode.com/problems/fibonacci-number/description/)
+###         Sum of Natural Numbers (https://www.geeksforgeeks.org/problems/sum-of-series2811/1)
