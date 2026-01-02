@@ -140,3 +140,7 @@
 
 ### Day-53: Print Subsequences
 ###         House Robber (https://leetcode.com/problems/house-robber/description/)
+
+### Day-54: Last Occurance of a Char
+###         Reverse a String
+###         Coin Change (https://leetcode.com/problems/coin-change/description/)
