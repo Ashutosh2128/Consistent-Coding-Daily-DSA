@@ -149,3 +149,6 @@
 
 ### Day-56: Print All Sub-String Using Recursion
 ###         Remove All Occurrences of a Substring (https://leetcode.com/problems/remove-all-occurrences-of-a-substring/description/)
+
+### Day-57: Best Time to Buy and Sell Stock (https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/)
+###         Partition Equal Subset Sum (https://leetcode.com/problems/partition-equal-subset-sum/description/)
