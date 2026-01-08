@@ -156,3 +156,5 @@
 ### Day-58: Integer to English Words (https://leetcode.com/problems/integer-to-english-words/description/)
 
 ### Day-59: Wildcard Matching (https://leetcode.com/problems/wildcard-matching/description/)
+
+### Day-60: Number of Dice Rolls With Target Sum (https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/description/)
