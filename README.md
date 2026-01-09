@@ -158,3 +158,5 @@
 ### Day-59: Wildcard Matching (https://leetcode.com/problems/wildcard-matching/description/)
 
 ### Day-60: Number of Dice Rolls With Target Sum (https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/description/)
+
+### Day-61: Perfect Squares (https://leetcode.com/problems/perfect-squares/description/)
