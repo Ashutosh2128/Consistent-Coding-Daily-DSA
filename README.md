@@ -162,3 +162,6 @@
 ### Day-61: Perfect Squares (https://leetcode.com/problems/perfect-squares/description/)
 
 ### Day-62: Minimum Cost For Tickets (https://leetcode.com/problems/minimum-cost-for-tickets/description/)
+
+### Day-63: House Robber II (https://leetcode.com/problems/house-robber-ii/description/)
+###         Disarrangement of balls (https://www.geeksforgeeks.org/problems/dearrangement-of-balls0918/1)
