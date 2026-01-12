@@ -165,3 +165,5 @@
 
 ### Day-63: House Robber II (https://leetcode.com/problems/house-robber-ii/description/)
 ###         Disarrangement of balls (https://www.geeksforgeeks.org/problems/dearrangement-of-balls0918/1)
+
+### Day-64: Painting the Fence (https://www.geeksforgeeks.org/problems/painting-the-fence3727/1)
