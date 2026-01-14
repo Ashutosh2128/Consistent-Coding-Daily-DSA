@@ -169,3 +169,5 @@
 ### Day-64: Painting the Fence (https://www.geeksforgeeks.org/problems/painting-the-fence3727/1)
 
 ### Day-65: Edit Distance (https://leetcode.com/problems/edit-distance/description/)
+
+### Day-66: Maximal Square (https://leetcode.com/problems/maximal-square/description/)
