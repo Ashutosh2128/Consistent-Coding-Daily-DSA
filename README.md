@@ -171,3 +171,5 @@
 ### Day-65: Edit Distance (https://leetcode.com/problems/edit-distance/description/)
 
 ### Day-66: Maximal Square (https://leetcode.com/problems/maximal-square/description/)
+
+### Day-67: Merge Sort (https://www.geeksforgeeks.org/problems/merge-sort/1)
