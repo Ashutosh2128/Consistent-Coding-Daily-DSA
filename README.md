@@ -173,3 +173,5 @@
 ### Day-66: Maximal Square (https://leetcode.com/problems/maximal-square/description/)
 
 ### Day-67: Merge Sort (https://www.geeksforgeeks.org/problems/merge-sort/1)
+
+### Day-68: Quick Sort (https://www.naukri.com/code360/problems/quick-sort_983625?leftPanelTabValue=PROBLEM)
