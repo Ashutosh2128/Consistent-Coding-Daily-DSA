@@ -175,3 +175,5 @@
 ### Day-67: Merge Sort (https://www.geeksforgeeks.org/problems/merge-sort/1)
 
 ### Day-68: Quick Sort (https://www.naukri.com/code360/problems/quick-sort_983625?leftPanelTabValue=PROBLEM)
+
+### Day-69: Rat in a Maze (https://www.geeksforgeeks.org/problems/rat-in-a-maze-problem/1)
