@@ -179,3 +179,5 @@
 ### Day-69: Rat in a Maze (https://www.geeksforgeeks.org/problems/rat-in-a-maze-problem/1)
 
 ### Day-70: Permutations (https://leetcode.com/problems/permutations/description/)
+
+### Day-71: N-Queens (https://leetcode.com/problems/n-queens/description/)
