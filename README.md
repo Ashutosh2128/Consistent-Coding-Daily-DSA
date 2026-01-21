@@ -183,3 +183,5 @@
 ### Day-71: N-Queens (https://leetcode.com/problems/n-queens/description/)
 
 ### Day-72: Sudoku Solver (https://leetcode.com/problems/sudoku-solver/description/)
+
+### Day-73: Generate Parentheses (https://leetcode.com/problems/generate-parentheses/description/)
