@@ -185,3 +185,5 @@
 ### Day-72: Sudoku Solver (https://leetcode.com/problems/sudoku-solver/description/)
 
 ### Day-73: Generate Parentheses (https://leetcode.com/problems/generate-parentheses/description/)
+
+### Day-74: Search a 2D Matrix II (https://leetcode.com/problems/search-a-2d-matrix-ii/description/)
