@@ -209,3 +209,5 @@
 ### Day-84: Permutations II (https://leetcode.com/problems/permutations-ii/description/)
 
 ### Day-85: Beautiful Arrangement (https://leetcode.com/problems/beautiful-arrangement/description/)
+
+### Day-86: Distribute Repeating Integers (https://leetcode.com/problems/distribute-repeating-integers/description/)
