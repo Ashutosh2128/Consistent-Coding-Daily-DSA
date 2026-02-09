@@ -221,3 +221,5 @@
 ### Day-90: Linked List Cycle (https://leetcode.com/problems/linked-list-cycle/description/)
 
 ### Day-91: Remove Duplicates from Sorted List (https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/)
+
+### Dau-92: Sort a linked list of 0s, 1s and 2s (https://www.geeksforgeeks.org/problems/given-a-linked-list-of-0s-1s-and-2s-sort-it/1)
