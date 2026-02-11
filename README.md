@@ -226,3 +226,5 @@
 
 ### Day-93: Add 1 to a Linked List Number (https://www.geeksforgeeks.org/problems/add-1-to-a-number-represented-as-linked-list/1)
 ###         Nested Array Check (https://courses.bigbinaryacademy.com/learn-javascript/exercises-set-4/nested-array-check/)
+
+### Day-94: Add Two Numbers (https://leetcode.com/problems/add-two-numbers/description/)
