@@ -228,3 +228,5 @@
 ###         Nested Array Check (https://courses.bigbinaryacademy.com/learn-javascript/exercises-set-4/nested-array-check/)
 
 ### Day-94: Add Two Numbers (https://leetcode.com/problems/add-two-numbers/description/)
+
+### Day-95: Linked List Cycle II (https://leetcode.com/problems/linked-list-cycle-ii/description/)
