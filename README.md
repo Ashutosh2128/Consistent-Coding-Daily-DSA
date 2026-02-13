@@ -230,3 +230,5 @@
 ### Day-94: Add Two Numbers (https://leetcode.com/problems/add-two-numbers/description/)
 
 ### Day-95: Linked List Cycle II (https://leetcode.com/problems/linked-list-cycle-ii/description/)
+
+### Day-96: Split Linked List in Parts (https://leetcode.com/problems/split-linked-list-in-parts/)
