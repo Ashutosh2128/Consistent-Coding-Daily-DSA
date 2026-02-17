@@ -238,3 +238,7 @@
 ### Day-98: Delete N nodes after M nodes of a linked list (https://www.geeksforgeeks.org/problems/delete-n-nodes-after-m-nodes-of-a-linked-list/1)
 
 ### Day-99: Merge Two Sorted Lists (https://leetcode.com/problems/merge-two-sorted-lists/description/)
+
+### Day-100: Get Node Value (https://www.hackerrank.com/challenges/get-the-value-of-the-node-at-a-specific-position-from-the-tail/problem)
+###          Intersection of Two Linked Lists (https://www.geeksforgeeks.org/problems/intersection-of-two-linked-list/1)
+
