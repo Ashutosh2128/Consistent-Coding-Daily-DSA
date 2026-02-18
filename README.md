@@ -242,3 +242,5 @@
 ### Day-100: Get Node Value (https://www.hackerrank.com/challenges/get-the-value-of-the-node-at-a-specific-position-from-the-tail/problem)
 ###          Intersection of Two Linked Lists (https://www.geeksforgeeks.org/problems/intersection-of-two-linked-list/1)
 
+### Day-101: Flattening a Linked List (https://www.geeksforgeeks.org/problems/flattening-a-linked-list/1)
+
