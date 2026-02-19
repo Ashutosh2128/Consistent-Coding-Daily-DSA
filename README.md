@@ -244,3 +244,5 @@
 
 ### Day-101: Flattening a Linked List (https://www.geeksforgeeks.org/problems/flattening-a-linked-list/1)
 
+### Day-102: Copy List with Random Pointer (https://leetcode.com/problems/copy-list-with-random-pointer/description/)
+
