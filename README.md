@@ -247,3 +247,5 @@
 ### Day-102: Copy List with Random Pointer (https://leetcode.com/problems/copy-list-with-random-pointer/description/)
 
 ### Day-103: Rotate List (https://leetcode.com/problems/rotate-list/)
+
+### Day-104: Find the Minimum and Maximum Number of Nodes Between Critical Points (https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/description/)
