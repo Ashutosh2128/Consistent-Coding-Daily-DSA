@@ -251,3 +251,5 @@
 ### Day-104: Find the Minimum and Maximum Number of Nodes Between Critical Points (https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/description/)
 
 ### Day-105: Merge Nodes in Between Zeros (https://leetcode.com/problems/merge-nodes-in-between-zeros/description/)
+
+### Day-106: Odd Even Linked List (https://leetcode.com/problems/odd-even-linked-list/description/)
