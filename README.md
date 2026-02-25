@@ -253,3 +253,7 @@
 ### Day-105: Merge Nodes in Between Zeros (https://leetcode.com/problems/merge-nodes-in-between-zeros/description/)
 
 ### Day-106: Odd Even Linked List (https://leetcode.com/problems/odd-even-linked-list/description/)
+
+### Day-107: Double a Number Represented as a Linked List (https://leetcode.com/problems/double-a-number-represented-as-a-linked-list/description/)
+
+### Day-108: Remove Zero Sum Consecutive Nodes from Linked List (https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list/)
