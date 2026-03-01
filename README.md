@@ -265,3 +265,6 @@
 ### Day-111: Implement Stack Using Array
 ###          Find Middle Element of Stack
 ###          Insert at Buttom in Stack
+
+### Day-112: Check Stack is Sorted or Not
+###          Reverse a Stack
