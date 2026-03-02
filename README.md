@@ -268,3 +268,6 @@
 
 ### Day-112: Check Stack is Sorted or Not
 ###          Reverse a Stack
+
+### Day-113: Sorted Insert
+###          Valid Parentheses (https://leetcode.com/problems/valid-parentheses/description/)
