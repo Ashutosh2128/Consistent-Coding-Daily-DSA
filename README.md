@@ -271,3 +271,5 @@
 
 ### Day-113: Sorted Insert
 ###          Valid Parentheses (https://leetcode.com/problems/valid-parentheses/description/)
+
+### Day-114: Expression contains redundant bracket or not (https://www.geeksforgeeks.org/problems/expression-contains-redundant-bracket-or-not/1)
