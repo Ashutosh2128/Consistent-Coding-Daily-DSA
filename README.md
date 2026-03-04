@@ -273,3 +273,5 @@
 ###          Valid Parentheses (https://leetcode.com/problems/valid-parentheses/description/)
 
 ### Day-114: Expression contains redundant bracket or not (https://www.geeksforgeeks.org/problems/expression-contains-redundant-bracket-or-not/1)
+
+### Day-115: Next Smaller Element (https://www.geeksforgeeks.org/problems/immediate-smaller-element1142/1)
