@@ -277,3 +277,5 @@
 ### Day-115: Next Smaller Element (https://www.geeksforgeeks.org/problems/immediate-smaller-element1142/1)
 
 ### Day-116: Previous Smaller Element (https://www.geeksforgeeks.org/problems/previous-smaller-element/1)
+
+### Day-117: Largest Rectangle in Histogram (https://leetcode.com/problems/largest-rectangle-in-histogram/description/)
