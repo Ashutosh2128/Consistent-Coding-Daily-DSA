@@ -279,3 +279,5 @@
 ### Day-116: Previous Smaller Element (https://www.geeksforgeeks.org/problems/previous-smaller-element/1)
 
 ### Day-117: Largest Rectangle in Histogram (https://leetcode.com/problems/largest-rectangle-in-histogram/description/)
+
+### Day-118: Min Stack (https://leetcode.com/problems/min-stack/description/)
