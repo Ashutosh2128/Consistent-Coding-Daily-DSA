@@ -285,3 +285,5 @@
 ### Day-119: Sum of Subarray Minimums (https://leetcode.com/problems/sum-of-subarray-minimums/description/)
 
 ### Day-120: Sum of Subarray Ranges (https://leetcode.com/problems/sum-of-subarray-ranges/description/)
+
+### Day-121: Basic Calculator (https://leetcode.com/problems/basic-calculator/description/)
