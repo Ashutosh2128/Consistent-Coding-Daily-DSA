@@ -289,3 +289,6 @@
 ### Day-121: Basic Calculator (https://leetcode.com/problems/basic-calculator/description/)
 
 ### Day-122: Count the Reversals (https://www.geeksforgeeks.org/problems/count-the-reversals0401/1)
+
+### Dau-123: Remove All Adjacent Duplicates In String (https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/description/)
+###          The Celebrity Problem (https://www.geeksforgeeks.org/problems/the-celebrity-problem/1)
