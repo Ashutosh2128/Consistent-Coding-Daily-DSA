@@ -290,5 +290,7 @@
 
 ### Day-122: Count the Reversals (https://www.geeksforgeeks.org/problems/count-the-reversals0401/1)
 
-### Dau-123: Remove All Adjacent Duplicates In String (https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/description/)
+### Day-123: Remove All Adjacent Duplicates In String (https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/description/)
 ###          The Celebrity Problem (https://www.geeksforgeeks.org/problems/the-celebrity-problem/1)
+
+### Day-124: Next Greater Node In Linked List (https://leetcode.com/problems/next-greater-node-in-linked-list/description/)
