@@ -294,3 +294,5 @@
 ###          The Celebrity Problem (https://www.geeksforgeeks.org/problems/the-celebrity-problem/1)
 
 ### Day-124: Next Greater Node In Linked List (https://leetcode.com/problems/next-greater-node-in-linked-list/description/)
+
+### Day-125: Online Stock Span (https://leetcode.com/problems/online-stock-span/description/)
