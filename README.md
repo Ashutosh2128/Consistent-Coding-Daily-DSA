@@ -296,3 +296,5 @@
 ### Day-124: Next Greater Node In Linked List (https://leetcode.com/problems/next-greater-node-in-linked-list/description/)
 
 ### Day-125: Online Stock Span (https://leetcode.com/problems/online-stock-span/description/)
+
+### Day-126: Check If Word Is Valid After Substitutions (https://leetcode.com/problems/check-if-word-is-valid-after-substitutions/description/)
