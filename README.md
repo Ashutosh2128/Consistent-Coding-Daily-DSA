@@ -298,3 +298,5 @@
 ### Day-125: Online Stock Span (https://leetcode.com/problems/online-stock-span/description/)
 
 ### Day-126: Check If Word Is Valid After Substitutions (https://leetcode.com/problems/check-if-word-is-valid-after-substitutions/description/)
+
+### Decode String (https://leetcode.com/problems/decode-string/description/)
