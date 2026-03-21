@@ -306,3 +306,5 @@
 ### Car Fleet II (https://leetcode.com/problems/car-fleet-ii/)
 
 ### Simplify Path (https://leetcode.com/problems/simplify-path/)
+
+### Maximal Rectangle (https://leetcode.com/problems/maximal-rectangle/description/)
