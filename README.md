@@ -308,3 +308,5 @@
 ### Simplify Path (https://leetcode.com/problems/simplify-path/)
 
 ### Maximal Rectangle (https://leetcode.com/problems/maximal-rectangle/description/)
+
+### Daily Temperatures (https://leetcode.com/problems/daily-temperatures/description/)
