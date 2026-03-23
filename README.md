@@ -299,14 +299,16 @@
 
 ### Day-126: Check If Word Is Valid After Substitutions (https://leetcode.com/problems/check-if-word-is-valid-after-substitutions/description/)
 
-### Decode String (https://leetcode.com/problems/decode-string/description/)
+### Day-127: Decode String (https://leetcode.com/problems/decode-string/description/)
 
-### Car Fleet (https://leetcode.com/problems/car-fleet/description/)
+### Day-128: Car Fleet (https://leetcode.com/problems/car-fleet/description/)
 
-### Car Fleet II (https://leetcode.com/problems/car-fleet-ii/)
+### Day-129: Car Fleet II (https://leetcode.com/problems/car-fleet-ii/)
 
-### Simplify Path (https://leetcode.com/problems/simplify-path/)
+### Day-130: Simplify Path (https://leetcode.com/problems/simplify-path/)
 
-### Maximal Rectangle (https://leetcode.com/problems/maximal-rectangle/description/)
+### Day-131: Maximal Rectangle (https://leetcode.com/problems/maximal-rectangle/description/)
 
-### Daily Temperatures (https://leetcode.com/problems/daily-temperatures/description/)
+### Day-132: Daily Temperatures (https://leetcode.com/problems/daily-temperatures/description/)
+
+### Day-133: Remove K Digits (https://leetcode.com/problems/remove-k-digits/description/)
