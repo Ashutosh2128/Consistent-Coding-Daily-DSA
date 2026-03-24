@@ -312,3 +312,5 @@
 ### Day-132: Daily Temperatures (https://leetcode.com/problems/daily-temperatures/description/)
 
 ### Day-133: Remove K Digits (https://leetcode.com/problems/remove-k-digits/description/)
+
+### Day-134: Minimum Add to Make Parentheses Valid (https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/description/)
