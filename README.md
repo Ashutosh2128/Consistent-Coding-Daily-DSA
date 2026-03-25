@@ -314,3 +314,5 @@
 ### Day-133: Remove K Digits (https://leetcode.com/problems/remove-k-digits/description/)
 
 ### Day-134: Minimum Add to Make Parentheses Valid (https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/description/)
+
+### Day-135: Longest Valid Parentheses (https://leetcode.com/problems/longest-valid-parentheses/description/)
