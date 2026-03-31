@@ -329,3 +329,6 @@
 
 ### Day-140: Reverse a Queue
 ###          Reverse a Queue in K Group
+
+### Day-141: Interleave the First Half of the Queue with Second Half (https://www.geeksforgeeks.org/problems/interleave-the-first-half-of-the-queue-with-second-half/1)
+###          First negative in every window of size k (https://www.geeksforgeeks.org/problems/first-negative-integer-in-every-window-of-size-k3345/1)
