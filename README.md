@@ -334,3 +334,5 @@
 ###          First negative in every window of size k (https://www.geeksforgeeks.org/problems/first-negative-integer-in-every-window-of-size-k3345/1)
 
 ### Day-142: Sliding Window Maximum (https://leetcode.com/problems/sliding-window-maximum/description/)
+
+### Day-143: Stream First Non-repeating (https://www.geeksforgeeks.org/problems/first-non-repeating-character-in-a-stream1216/1)
