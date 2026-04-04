@@ -338,3 +338,5 @@
 ### Day-143: Stream First Non-repeating (https://www.geeksforgeeks.org/problems/first-non-repeating-character-in-a-stream1216/1)
 
 ### Gas Station (https://leetcode.com/problems/gas-station/description/)
+
+### Flatten Nested List Iterator (https://leetcode.com/problems/flatten-nested-list-iterator/description/)
