@@ -337,8 +337,10 @@
 
 ### Day-143: Stream First Non-repeating (https://www.geeksforgeeks.org/problems/first-non-repeating-character-in-a-stream1216/1)
 
-### Gas Station (https://leetcode.com/problems/gas-station/description/)
+### Day-144: Gas Station (https://leetcode.com/problems/gas-station/description/)
 
-### Flatten Nested List Iterator (https://leetcode.com/problems/flatten-nested-list-iterator/description/)
+### Day-145: Flatten Nested List Iterator (https://leetcode.com/problems/flatten-nested-list-iterator/description/)
 
-### Dota2 Senate (https://leetcode.com/problems/dota2-senate/description/)
+### Day-146: Dota2 Senate (https://leetcode.com/problems/dota2-senate/description/)
+
+### Day-147: Implement Queue using Stacks (https://leetcode.com/problems/implement-queue-using-stacks/description/)
