@@ -346,3 +346,7 @@
 ### Day-147: Implement Queue using Stacks (https://leetcode.com/problems/implement-queue-using-stacks/description/)
 
 ### Day-148: Implement Stack using Queues (https://leetcode.com/problems/implement-stack-using-queues/description/)
+
+### Day-149: Sum of min and max element of all subarray of size k
+
+### Day-150: Number of Recent Calls (https://leetcode.com/problems/number-of-recent-calls/description/)
