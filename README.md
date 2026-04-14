@@ -359,3 +359,6 @@
 
 ### Day-154: Print Right to Left in Level Order Traversal
 ###          Print in Zigzag Way in Level Order Traversal
+
+### Day-155: Maximum Depth of Binary Tree (https://leetcode.com/problems/maximum-depth-of-binary-tree/description/)
+###          Diameter of Binary Tree (https://leetcode.com/problems/diameter-of-binary-tree/description/)
