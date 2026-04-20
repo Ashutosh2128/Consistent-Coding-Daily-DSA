@@ -374,3 +374,6 @@
 ###          Construct Binary Tree from Inorder and Postorder Traversal (https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/description/)
 
 ### Day-160: Tree Boundary Traversal (https://www.geeksforgeeks.org/problems/boundary-traversal-of-binary-tree/1)
+
+### Day-161: Left View of Binary Tree (https://www.geeksforgeeks.org/problems/left-view-of-binary-tree/1)
+###          Right View of Binary Tree (https://www.geeksforgeeks.org/problems/right-view-of-binary-tree/1)
