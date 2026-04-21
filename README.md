@@ -377,3 +377,5 @@
 
 ### Day-161: Left View of Binary Tree (https://www.geeksforgeeks.org/problems/left-view-of-binary-tree/1)
 ###          Right View of Binary Tree (https://www.geeksforgeeks.org/problems/right-view-of-binary-tree/1)
+
+### Day-162: Top View of Binary Tree (https://www.geeksforgeeks.org/problems/top-view-of-binary-tree/1)
