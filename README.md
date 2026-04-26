@@ -387,3 +387,6 @@
 ### Day-165: Count Complete Tree Nodes (https://leetcode.com/problems/count-complete-tree-nodes/description/)
 
 ### Day-166: Binary Tree Cameras (https://leetcode.com/problems/binary-tree-cameras/description/)
+
+### Day-167: Balanced Binary Tree (https://leetcode.com/problems/balanced-binary-tree/description/)
+###          Diameter of Binary Tree (https://leetcode.com/problems/diameter-of-binary-tree/description/)
