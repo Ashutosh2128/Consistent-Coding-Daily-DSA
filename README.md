@@ -397,3 +397,5 @@
 ### Day-169: Binary Tree Zigzag Level Order Traversal (https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/description/)
 
 ### Day-170: Transform to Sum Tree (https://www.geeksforgeeks.org/problems/transform-to-sum-tree/1)
+
+### Day-171: Diagonal Tree Traversal (https://www.geeksforgeeks.org/problems/diagonal-traversal-of-binary-tree/1)
