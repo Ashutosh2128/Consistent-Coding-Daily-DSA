@@ -399,3 +399,5 @@
 ### Day-170: Transform to Sum Tree (https://www.geeksforgeeks.org/problems/transform-to-sum-tree/1)
 
 ### Day-171: Diagonal Tree Traversal (https://www.geeksforgeeks.org/problems/diagonal-traversal-of-binary-tree/1)
+
+### Day-172: Vertical Order Traversal of a Binary Tree (https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/description/)
