@@ -407,3 +407,5 @@
 ### Day-174: Flatten Binary Tree to Linked List (https://leetcode.com/problems/flatten-binary-tree-to-linked-list/description/)
 
 ### Day-175: Sum of nodes on the longest path (https://www.geeksforgeeks.org/problems/sum-of-the-longest-bloodline-of-a-tree/1)
+
+### Day-176: Maximum Non-Adjacent Nodes Sum (https://www.geeksforgeeks.org/problems/maximum-sum-of-non-adjacent-nodes/1)
