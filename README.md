@@ -409,3 +409,5 @@
 ### Day-175: Sum of nodes on the longest path (https://www.geeksforgeeks.org/problems/sum-of-the-longest-bloodline-of-a-tree/1)
 
 ### Day-176: Maximum Non-Adjacent Nodes Sum (https://www.geeksforgeeks.org/problems/maximum-sum-of-non-adjacent-nodes/1)
+
+### Day-177: Burning Tree (https://www.geeksforgeeks.org/problems/burning-tree/1)
