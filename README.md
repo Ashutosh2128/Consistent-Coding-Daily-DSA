@@ -411,3 +411,5 @@
 ### Day-176: Maximum Non-Adjacent Nodes Sum (https://www.geeksforgeeks.org/problems/maximum-sum-of-non-adjacent-nodes/1)
 
 ### Day-177: Burning Tree (https://www.geeksforgeeks.org/problems/burning-tree/1)
+
+### Day-178: Find Duplicate Subtrees (https://leetcode.com/problems/find-duplicate-subtrees/)
