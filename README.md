@@ -415,3 +415,7 @@
 ### Day-178: Find Duplicate Subtrees (https://leetcode.com/problems/find-duplicate-subtrees/)
 
 ### Day-179: Get Min and Max in a Binary Search Tree
+
+### Day-180: Search in a Binary Search Tree
+             
+### Day-181: Delete Node in a BST (https://leetcode.com/problems/delete-node-in-a-bst/description/)

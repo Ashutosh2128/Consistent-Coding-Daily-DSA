@@ -78,6 +78,7 @@ int minimum(Node* root) {
 int main() {
     Node* root = NULL;
 
+    // 100 50 200 150 40 75 250 -1
     createTree(root);
 
     levelOrderTraversal(root);
