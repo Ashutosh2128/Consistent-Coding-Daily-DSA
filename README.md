@@ -419,3 +419,6 @@
 ### Day-180: Search in a Binary Search Tree
              
 ### Day-181: Delete Node in a BST (https://leetcode.com/problems/delete-node-in-a-bst/description/)
+
+### Day-182: Two Sum IV - Input is a BST (https://leetcode.com/problems/two-sum-iv-input-is-a-bst/description/)
+###          Convert BST to Greater Tree (https://leetcode.com/problems/convert-bst-to-greater-tree/description/)
