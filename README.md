@@ -422,3 +422,6 @@
 
 ### Day-182: Two Sum IV - Input is a BST (https://leetcode.com/problems/two-sum-iv-input-is-a-bst/description/)
 ###          Convert BST to Greater Tree (https://leetcode.com/problems/convert-bst-to-greater-tree/description/)
+
+### Day-183: Kth Smallest Element in a BST (https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/)
+###          Lowest Common Ancestor of a Binary Search Tree (https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/description/)
