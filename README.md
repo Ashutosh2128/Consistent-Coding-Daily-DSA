@@ -429,3 +429,5 @@
 ### Day-184: Convert Sorted Array to Binary Search Tree (https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/description/)
 
 ### Day-185: Binary Tree to DLL (https://www.geeksforgeeks.org/problems/binary-tree-to-dll/1)
+
+### Day-186: Convert Sorted List to Binary Search Tree (https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/description/)
