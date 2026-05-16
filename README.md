@@ -431,3 +431,5 @@
 ### Day-185: Binary Tree to DLL (https://www.geeksforgeeks.org/problems/binary-tree-to-dll/1)
 
 ### Day-186: Convert Sorted List to Binary Search Tree (https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/description/)
+
+### Day-187: Maximum Sum BST in Binary Tree (https://leetcode.com/problems/maximum-sum-bst-in-binary-tree/description/)
