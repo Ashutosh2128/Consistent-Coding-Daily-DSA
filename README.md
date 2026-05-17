@@ -433,3 +433,5 @@
 ### Day-186: Convert Sorted List to Binary Search Tree (https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/description/)
 
 ### Day-187: Maximum Sum BST in Binary Tree (https://leetcode.com/problems/maximum-sum-bst-in-binary-tree/description/)
+
+### Day-188: Minimum Distance Between BST Nodes (https://leetcode.com/problems/minimum-distance-between-bst-nodes/description/)
