@@ -435,3 +435,5 @@
 ### Day-187: Maximum Sum BST in Binary Tree (https://leetcode.com/problems/maximum-sum-bst-in-binary-tree/description/)
 
 ### Day-188: Minimum Distance Between BST Nodes (https://leetcode.com/problems/minimum-distance-between-bst-nodes/description/)
+
+### Day-189: Validate Binary Search Tree (https://leetcode.com/problems/validate-binary-search-tree/description/)
