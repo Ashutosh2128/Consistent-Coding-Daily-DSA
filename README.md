@@ -441,3 +441,5 @@
 ### Day-190: Binary Search Tree Iterator (https://leetcode.com/problems/binary-search-tree-iterator/description/)
 
 ### Day-191: Recover Binary Search Tree (https://leetcode.com/problems/recover-binary-search-tree/description/)
+
+### Day-192: Inorder Predecessor of Node in BST (https://workat.tech/problem-solving/practice/inorder-predecessor-bst)
