@@ -443,3 +443,7 @@
 ### Day-191: Recover Binary Search Tree (https://leetcode.com/problems/recover-binary-search-tree/description/)
 
 ### Day-192: Inorder Predecessor of Node in BST (https://workat.tech/problem-solving/practice/inorder-predecessor-bst)
+
+### Day-193: Inorder Successor in BST (https://www.geeksforgeeks.org/problems/inorder-successor-in-bst/1)
+
+### Day-194: Construct Binary Search Tree from Preorder Traversal (https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/description/)
