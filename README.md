@@ -447,3 +447,5 @@
 ### Day-193: Inorder Successor in BST (https://www.geeksforgeeks.org/problems/inorder-successor-in-bst/1)
 
 ### Day-194: Construct Binary Search Tree from Preorder Traversal (https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/description/)
+
+### Day-195: Find Sum Pairs Across Two BSTs (https://www.geeksforgeeks.org/problems/brothers-from-different-root/1)
