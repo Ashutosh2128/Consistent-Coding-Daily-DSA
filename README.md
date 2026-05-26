@@ -450,4 +450,6 @@
 
 ### Day-195: Find Sum Pairs Across Two BSTs (https://www.geeksforgeeks.org/problems/brothers-from-different-root/1)
 
-### Day-196: Balance a Binary Search Tree ()
+### Day-196: Balance a Binary Search Tree (https://leetcode.com/problems/balance-a-binary-search-tree/description/)
+
+### Day-197: Median of BST (https://www.geeksforgeeks.org/problems/median-of-bst/1)
