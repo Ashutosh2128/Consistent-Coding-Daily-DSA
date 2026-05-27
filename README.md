@@ -453,3 +453,5 @@
 ### Day-196: Balance a Binary Search Tree (https://leetcode.com/problems/balance-a-binary-search-tree/description/)
 
 ### Day-197: Median of BST (https://www.geeksforgeeks.org/problems/median-of-bst/1)
+
+### Day-198: BST with Dead End (https://www.geeksforgeeks.org/problems/check-whether-bst-contains-dead-end/1)
