@@ -6,7 +6,7 @@ public:
         int ans = 0;
         if(root -> val >= low && root -> val <= high) {
             ans = (ans + root -> val) + rangeSumBST(root -> left, low, high) + rangeSumBST(root -> right, low, high);
-        }
+        }   
         else if(root -> val < low) ans += rangeSumBST(root -> right, low, high);
         else if(root -> val > high) ans += rangeSumBST(root -> left, low, high);
 
