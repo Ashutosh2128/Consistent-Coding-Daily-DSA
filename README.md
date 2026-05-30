@@ -459,3 +459,5 @@
 ### Day-199: Range Sum of BST (https://leetcode.com/problems/range-sum-of-bst/description/)
 
 ### Day-200: Flatten BST to Sorted LL
+
+### Day-201: Replace with Least Greater on Right (https://www.geeksforgeeks.org/problems/replace-every-element-with-the-least-greater-element-on-its-right/1)
