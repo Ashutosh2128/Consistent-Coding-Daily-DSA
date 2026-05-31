@@ -461,3 +461,5 @@
 ### Day-200: Flatten BST to Sorted LL
 
 ### Day-201: Replace with Least Greater on Right (https://www.geeksforgeeks.org/problems/replace-every-element-with-the-least-greater-element-on-its-right/1)
+
+### Day-202: Valid BST from Preorder (https://www.interviewbit.com/problems/valid-bst-from-preorder/)
