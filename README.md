@@ -467,3 +467,8 @@
 ### Day-203: Merge two BST 's (https://www.geeksforgeeks.org/problems/merge-two-bst-s/1)
 
 ### Day-204: Insertion and Deletion Operation on Heap
+
+### Day-205: Build Heap
+###          Heap Sort
+
+### Day-206: Kth Largest Element in an Array (https://leetcode.com/problems/kth-largest-element-in-an-array/description/)
