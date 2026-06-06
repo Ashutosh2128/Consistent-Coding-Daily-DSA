@@ -472,3 +472,5 @@
 ###          Heap Sort
 
 ### Day-206: Kth Largest Element in an Array (https://leetcode.com/problems/kth-largest-element-in-an-array/description/)
+
+### Day-207: Check Completeness of a Binary Tree (https://leetcode.com/problems/check-completeness-of-a-binary-tree/description/)
