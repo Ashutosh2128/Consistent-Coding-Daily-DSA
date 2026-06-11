@@ -482,3 +482,5 @@
 ### Day-210: Merge k Sorted Arrays (https://www.geeksforgeeks.org/problems/merge-k-sorted-arrays/1)
 
 ### Day-211: Merge k Sorted Lists (https://leetcode.com/problems/merge-k-sorted-lists/description/)
+
+### Day-212: Smallest Range Covering Elements from K Lists (https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/description/)
