@@ -488,3 +488,5 @@
 ### Day-213: Find Median from Data Stream (https://leetcode.com/problems/find-median-from-data-stream/description/)
 
 ### Day-214: Top K Frequent Elements (https://leetcode.com/problems/top-k-frequent-elements/)
+
+### Day-215: Maximum Score From Removing Stones (https://leetcode.com/problems/maximum-score-from-removing-stones/)
