@@ -494,3 +494,5 @@
 ### Day-216: Design Twitter (https://leetcode.com/problems/design-twitter/description/)
 
 ### Day-217: Task Scheduler (https://leetcode.com/problems/task-scheduler/description/)
+
+### Day-218: K Closest Points to Origin (https://leetcode.com/problems/k-closest-points-to-origin/description/)
