@@ -502,3 +502,5 @@
 ### Day-220: Group Anagrams (https://leetcode.com/problems/group-anagrams/)
 
 ### Day-221: Get Biggest Three Rhombus Sums in a Grid (https://leetcode.com/problems/get-biggest-three-rhombus-sums-in-a-grid/description/)
+
+### Day-222: Minimum Difference in Sums After Removal of Elements (https://leetcode.com/problems/minimum-difference-in-sums-after-removal-of-elements/description/)
