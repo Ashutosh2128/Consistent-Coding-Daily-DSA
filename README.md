@@ -506,3 +506,5 @@
 ### Day-222: Minimum Difference in Sums After Removal of Elements (https://leetcode.com/problems/minimum-difference-in-sums-after-removal-of-elements/description/)
 
 ### Day-223: Minimum Number of Refueling Stops (https://leetcode.com/problems/minimum-number-of-refueling-stops/description/)
+
+### Day-224: Sliding Window Maximum (https://leetcode.com/problems/sliding-window-maximum/description/)
