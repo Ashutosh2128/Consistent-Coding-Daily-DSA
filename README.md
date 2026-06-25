@@ -510,3 +510,5 @@
 ### Day-224: Sliding Window Maximum (https://leetcode.com/problems/sliding-window-maximum/description/)
 
 ### Day-225: Substring with Concatenation of All Words (https://leetcode.com/problems/substring-with-concatenation-of-all-words/description/)
+
+### Day-226: Trie Implementation (Insert, Search, Delete)
