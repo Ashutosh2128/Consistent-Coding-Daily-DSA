@@ -514,3 +514,5 @@
 ### Day-226: Trie Implementation (Insert, Search, Delete)
 
 ### Day-227: Implement Trie (Prefix Tree) (http://leetcode.com/problems/implement-trie-prefix-tree/description/)
+
+### Day-228: Longest Common Prefix (https://leetcode.com/problems/longest-common-prefix/description/)
