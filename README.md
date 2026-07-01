@@ -521,3 +521,5 @@
 ###          Find Suggesstion using Prifix 2
 
 ### Day-230: Repeated DNA Sequences (https://leetcode.com/problems/repeated-dna-sequences/description/)
+
+### Day-231: Design Add and Search Words Data Structure (https://leetcode.com/problems/design-add-and-search-words-data-structure/description/)
