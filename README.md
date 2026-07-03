@@ -525,3 +525,5 @@
 ### Day-231: Design Add and Search Words Data Structure (https://leetcode.com/problems/design-add-and-search-words-data-structure/description/)
 
 ### Day-232: Implement Magic Dictionary (https://leetcode.com/problems/implement-magic-dictionary/description/)
+
+### Day-233: Search Suggestions System (https://leetcode.com/problems/search-suggestions-system/description/)
