@@ -529,3 +529,6 @@
 ### Day-233: Search Suggestions System (https://leetcode.com/problems/search-suggestions-system/description/)
 
 ### Day-234: Array Subset (https://www.geeksforgeeks.org/problems/array-subset-of-another-array2317/1)
+
+### Day-235: Intersection of Two Linked Lists (https://leetcode.com/problems/intersection-of-two-linked-lists/description/)
+###          Union of Two Linked Lists (https://www.geeksforgeeks.org/problems/union-of-two-linked-list/1)
