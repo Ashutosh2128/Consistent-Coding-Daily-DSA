@@ -532,3 +532,5 @@
 
 ### Day-235: Intersection of Two Linked Lists (https://leetcode.com/problems/intersection-of-two-linked-lists/description/)
 ###          Union of Two Linked Lists (https://www.geeksforgeeks.org/problems/union-of-two-linked-list/1)
+
+### Day-236: Pairs of equals Sum (https://www.geeksforgeeks.org/problems/sum-equals-to-sum4006/1)
