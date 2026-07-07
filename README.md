@@ -534,3 +534,5 @@
 ###          Union of Two Linked Lists (https://www.geeksforgeeks.org/problems/union-of-two-linked-list/1)
 
 ### Day-236: Pairs of equals Sum (https://www.geeksforgeeks.org/problems/sum-equals-to-sum4006/1)
+
+### Day-237: Largest subarray with 0 sum (https://www.geeksforgeeks.org/problems/largest-subarray-with-0-sum/1)
