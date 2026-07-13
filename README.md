@@ -544,3 +544,7 @@
 ### Day-240: Camelcase Matching (https://leetcode.com/problems/camelcase-matching/description/)
 
 ### Day-241: Palindrome Pairs (https://leetcode.com/problems/palindrome-pairs/)
+
+### Day-242: Phone directory (https://www.geeksforgeeks.org/problems/phone-directory4628/1)
+
+### Day-243: Shortest Unique Prefix for Every Word (https://www.geeksforgeeks.org/problems/shortest-unique-prefix-for-every-word/1)
