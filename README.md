@@ -550,3 +550,5 @@
 ### Day-243: Shortest Unique Prefix for Every Word (https://www.geeksforgeeks.org/problems/shortest-unique-prefix-for-every-word/1)
 
 ### Day-244: Replace Consecutive Two Same with One (https://www.geeksforgeeks.org/problems/consecutive-elements2306/1)
+
+### Day-246: Longest Increasing Subsequence (https://leetcode.com/problems/longest-increasing-subsequence/description/)
