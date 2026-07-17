@@ -552,3 +552,5 @@
 ### Day-244: Replace Consecutive Two Same with One (https://www.geeksforgeeks.org/problems/consecutive-elements2306/1)
 
 ### Day-246: Longest Increasing Subsequence (https://leetcode.com/problems/longest-increasing-subsequence/description/)
+
+### Day-247: Coin Change (https://leetcode.com/problems/coin-change/description/)
