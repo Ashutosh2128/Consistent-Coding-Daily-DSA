@@ -554,3 +554,5 @@
 ### Day-246: Longest Increasing Subsequence (https://leetcode.com/problems/longest-increasing-subsequence/description/)
 
 ### Day-247: Coin Change (https://leetcode.com/problems/coin-change/description/)
+
+### Day-248: 0 - 1 Knapsack Problem (https://www.geeksforgeeks.org/problems/0-1-knapsack-problem0945/1)
