@@ -556,3 +556,5 @@
 ### Day-247: Coin Change (https://leetcode.com/problems/coin-change/description/)
 
 ### Day-248: 0 - 1 Knapsack Problem (https://www.geeksforgeeks.org/problems/0-1-knapsack-problem0945/1)
+
+### Day-249: Find Minimum in Rotated Sorted Array (https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/)
