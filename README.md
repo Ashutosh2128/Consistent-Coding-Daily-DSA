@@ -558,3 +558,5 @@
 ### Day-248: 0 - 1 Knapsack Problem (https://www.geeksforgeeks.org/problems/0-1-knapsack-problem0945/1)
 
 ### Day-249: Find Minimum in Rotated Sorted Array (https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/)
+
+### Day-250: Score of Parentheses (https://leetcode.com/problems/score-of-parentheses/description/)
