@@ -562,3 +562,5 @@
 ### Day-250: Score of Parentheses (https://leetcode.com/problems/score-of-parentheses/description/)
 
 ### Day-251: Container With Most Water (https://leetcode.com/problems/container-with-most-water/description/)
+
+### Day-252: Pair Sum in a Sorted and Rotated Array (https://www.geeksforgeeks.org/problems/pair-sum-in-a-sorted-and-rotated-array/1)
