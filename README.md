@@ -566,3 +566,5 @@
 ### Day-252: Pair Sum in a Sorted and Rotated Array (https://www.geeksforgeeks.org/problems/pair-sum-in-a-sorted-and-rotated-array/1)
 
 ### Day-253: Form the Largest Number (https://www.geeksforgeeks.org/problems/largest-number-formed-from-an-array1117/1)
+
+### Day-254: Array Pair Sum Divisibility Problem (https://www.geeksforgeeks.org/problems/array-pair-sum-divisibility-problem3257/1)
