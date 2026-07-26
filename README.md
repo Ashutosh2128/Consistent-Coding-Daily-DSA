@@ -568,3 +568,6 @@
 ### Day-253: Form the Largest Number (https://www.geeksforgeeks.org/problems/largest-number-formed-from-an-array1117/1)
 
 ### Day-254: Array Pair Sum Divisibility Problem (https://www.geeksforgeeks.org/problems/array-pair-sum-divisibility-problem3257/1)
+
+### Day-255: Two sum -Pairs with 0 Sum (https://www.geeksforgeeks.org/problems/count-pairs-with-given-sum5022/1)
+###          Alternate Positive Negative (https://www.geeksforgeeks.org/problems/array-of-alternate-ve-and-ve-nos1401/1)
