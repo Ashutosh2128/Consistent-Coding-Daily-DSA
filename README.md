@@ -571,3 +571,6 @@
 
 ### Day-255: Two sum -Pairs with 0 Sum (https://www.geeksforgeeks.org/problems/count-pairs-with-given-sum5022/1)
 ###          Alternate Positive Negative (https://www.geeksforgeeks.org/problems/array-of-alternate-ve-and-ve-nos1401/1)
+
+### Day-256: Longest Repeating Character Replacement (https://leetcode.com/problems/longest-repeating-character-replacement/)
+###          Maximum Product of Two Elements in an Array (https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/description/?envType=daily-question&envId=2026-07-27)
