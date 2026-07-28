@@ -574,3 +574,5 @@
 
 ### Day-256: Longest Repeating Character Replacement (https://leetcode.com/problems/longest-repeating-character-replacement/)
 ###          Maximum Product of Two Elements in an Array (https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/description/?envType=daily-question&envId=2026-07-27)
+
+### Day-257: Product array puzzle (https://www.geeksforgeeks.org/problems/product-array-puzzle4525/1)
