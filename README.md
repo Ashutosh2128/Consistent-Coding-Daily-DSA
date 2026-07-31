@@ -578,3 +578,5 @@
 ### Day-257: Product array puzzle (https://www.geeksforgeeks.org/problems/product-array-puzzle4525/1)
 
 ### Day-258: Nearly sorted (https://www.geeksforgeeks.org/problems/nearly-sorted-1587115620/1)
+
+### Day-259: Pair With Difference (https://www.geeksforgeeks.org/problems/find-pair-given-difference1559/1)
