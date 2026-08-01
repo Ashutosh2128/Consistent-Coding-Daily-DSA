@@ -580,3 +580,5 @@
 ### Day-258: Nearly sorted (https://www.geeksforgeeks.org/problems/nearly-sorted-1587115620/1)
 
 ### Day-259: Pair With Difference (https://www.geeksforgeeks.org/problems/find-pair-given-difference1559/1)
+
+### Day-260: Modular Node in Linked List (https://www.geeksforgeeks.org/problems/modular-node/1)
