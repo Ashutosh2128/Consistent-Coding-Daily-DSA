@@ -582,3 +582,5 @@
 ### Day-259: Pair With Difference (https://www.geeksforgeeks.org/problems/find-pair-given-difference1559/1)
 
 ### Day-260: Modular Node in Linked List (https://www.geeksforgeeks.org/problems/modular-node/1)
+
+### Day-261: Counting Sort (https://www.geeksforgeeks.org/problems/counting-sort/1)
