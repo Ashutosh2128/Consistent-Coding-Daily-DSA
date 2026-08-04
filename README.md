@@ -584,3 +584,5 @@
 ### Day-260: Modular Node in Linked List (https://www.geeksforgeeks.org/problems/modular-node/1)
 
 ### Day-261: Counting Sort (https://www.geeksforgeeks.org/problems/counting-sort/1)
+
+### Day-262: Find Missing Elements (https://leetcode.com/problems/find-missing-elements/description/?envType=daily-question&envId=2026-08-04)
