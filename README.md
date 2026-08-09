@@ -591,3 +591,5 @@
 
 ### Day-264: Smallest Divisible Digit Product I (https://leetcode.com/problems/smallest-divisible-digit-product-i/description/?envType=daily-question&envId=2026-08-06)
 ###          Minimum Increment or Double Operations to Convert (https://www.geeksforgeeks.org/problems/minimum-steps-to-get-desired-array5519/1)
+
+### Day-265: Sort Array By Parity (https://leetcode.com/problems/sort-array-by-parity/description/)
