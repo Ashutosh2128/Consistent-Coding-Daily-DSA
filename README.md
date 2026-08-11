@@ -593,3 +593,5 @@
 ###          Minimum Increment or Double Operations to Convert (https://www.geeksforgeeks.org/problems/minimum-steps-to-get-desired-array5519/1)
 
 ### Day-265: Sort Array By Parity (https://leetcode.com/problems/sort-array-by-parity/description/)
+
+### Day-266: Remove Nth Node From End of List (https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/)
