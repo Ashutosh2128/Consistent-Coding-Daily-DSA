@@ -595,3 +595,5 @@
 ### Day-265: Sort Array By Parity (https://leetcode.com/problems/sort-array-by-parity/description/)
 
 ### Day-266: Remove Nth Node From End of List (https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/)
+
+### Day-267: Painting the Fence (https://www.geeksforgeeks.org/problems/painting-the-fence3727/1)
