@@ -599,3 +599,5 @@
 ### Day-267: Painting the Fence (https://www.geeksforgeeks.org/problems/painting-the-fence3727/1)
 
 ### Day-268: Partition Equal Subset Sum (https://leetcode.com/problems/partition-equal-subset-sum/description/)
+
+### Day-269: Number of Dice Rolls With Target Sum (https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/description/)
