@@ -605,3 +605,5 @@
 ### Day-270: Longest Common Subsequence (https://leetcode.com/problems/longest-common-subsequence/description/)
 
 ### Day-271: Maximum Height by Stacking Cuboids  (https://leetcode.com/problems/maximum-height-by-stacking-cuboids/description/)
+
+### Day-272: Guess Number Higher or Lower II (https://leetcode.com/problems/guess-number-higher-or-lower-ii/description/)
