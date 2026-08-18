@@ -607,3 +607,5 @@
 ### Day-271: Maximum Height by Stacking Cuboids  (https://leetcode.com/problems/maximum-height-by-stacking-cuboids/description/)
 
 ### Day-272: Guess Number Higher or Lower II (https://leetcode.com/problems/guess-number-higher-or-lower-ii/description/)
+
+### Day-273: Minimum Cost Tree From Leaf Values (https://leetcode.com/problems/minimum-cost-tree-from-leaf-values/description/)
