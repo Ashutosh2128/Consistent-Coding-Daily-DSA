@@ -613,3 +613,5 @@
 ### Day-274: Wildcard Matching (https://leetcode.com/problems/wildcard-matching/description/)
 
 ### Day-275: Regular Expression Matching (https://leetcode.com/problems/regular-expression-matching/description/)
+
+### Day-276: Perfect Squares (https://leetcode.com/problems/perfect-squares/description/)
