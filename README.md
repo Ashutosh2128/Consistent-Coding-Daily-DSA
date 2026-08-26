@@ -619,3 +619,5 @@
 ### Day-277: Check Divisibility by Digit Sum and Product (https://leetcode.com/problems/check-divisibility-by-digit-sum-and-product/?envType=daily-question&envId=2026-08-22)
 
 ### Day-278: Minimum Cost For Tickets (https://leetcode.com/problems/minimum-cost-for-tickets/description/)
+
+### Day-279: Minimum ASCII Delete Sum for Two Strings (https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/description/)
