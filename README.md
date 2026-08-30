@@ -625,3 +625,5 @@
 ### Day-280: Longest Palindromic Substring (https://leetcode.com/problems/longest-palindromic-substring/description/)
 
 ### Day-281: Distinct Subsequences (https://leetcode.com/problems/distinct-subsequences/description/)
+
+### Day-282: Count Integers Appearing in a Single Block (https://leetcode.com/problems/count-integers-appearing-in-a-single-block/)
