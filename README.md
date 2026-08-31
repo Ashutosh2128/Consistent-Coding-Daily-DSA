@@ -627,3 +627,7 @@
 ### Day-281: Distinct Subsequences (https://leetcode.com/problems/distinct-subsequences/description/)
 
 ### Day-282: Count Integers Appearing in a Single Block (https://leetcode.com/problems/count-integers-appearing-in-a-single-block/)
+
+### Day-283: Graph Implementation Using Adjacency List
+###          BFS of graph (https://www.geeksforgeeks.org/problems/bfs-traversal-of-graph/1)
+###          DFS of Graph (https://www.geeksforgeeks.org/problems/depth-first-traversal-for-a-graph/1)
