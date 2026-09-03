@@ -635,3 +635,5 @@
 ### Day-284: Word Break (https://leetcode.com/problems/word-break/description/)
 
 ### Day-285: Undirected Graph Cycle (https://www.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/1)
+
+### Day-286: Directed Graph Cycle (https://www.geeksforgeeks.org/problems/detect-cycle-in-a-directed-graph/1)
