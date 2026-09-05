@@ -639,3 +639,5 @@
 ### Day-286: Directed Graph Cycle (https://www.geeksforgeeks.org/problems/detect-cycle-in-a-directed-graph/1)
 
 ### Day-287: Topological Sort (https://www.geeksforgeeks.org/problems/topological-sort/1)
+
+### Day-288: Shortest Path in Unweighted Graph (https://www.geeksforgeeks.org/problems/shortest-path-in-undirected-graph-having-unit-distance/1)
