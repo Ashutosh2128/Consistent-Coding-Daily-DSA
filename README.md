@@ -643,3 +643,6 @@
 ### Day-288: Shortest Path in Unweighted Graph (https://www.geeksforgeeks.org/problems/shortest-path-in-undirected-graph-having-unit-distance/1)
 
 ### Day-289: Shortest Path in Directed Acyclic Graph (https://www.geeksforgeeks.org/problems/shortest-path-in-directed-acyclic-graph/1)
+
+### Day-290: Reminder AI (Part 1) - Extract reminder text (https://courses.bigbinaryacademy.com/learn-javascript/exercises-set-12/set-a-reminder-part-1/)
+###          Dijkstra Algorithm (https://www.geeksforgeeks.org/problems/implementing-dijkstra-set-1-adjacency-matrix/1)
