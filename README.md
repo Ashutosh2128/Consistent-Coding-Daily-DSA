@@ -646,3 +646,6 @@
 
 ### Day-290: Reminder AI (Part 1) - Extract reminder text (https://courses.bigbinaryacademy.com/learn-javascript/exercises-set-12/set-a-reminder-part-1/)
 ###          Dijkstra Algorithm (https://www.geeksforgeeks.org/problems/implementing-dijkstra-set-1-adjacency-matrix/1)
+
+### Day-291: Bellman Ford (https://www.geeksforgeeks.org/problems/distance-from-the-source-bellman-ford-algorithm/1)
+###          Decipher the Message (https://courses.bigbinaryacademy.com/learn-javascript/exercises-set-12/decipher-the-secret-message/)

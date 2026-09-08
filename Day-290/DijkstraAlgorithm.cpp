@@ -1,4 +1,4 @@
-.class Solution {
+class Solution {
   public:
     unordered_map<int, list<pair<int, int>>> addjacency;
   
