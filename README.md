@@ -649,3 +649,5 @@
 
 ### Day-291: Bellman Ford (https://www.geeksforgeeks.org/problems/distance-from-the-source-bellman-ford-algorithm/1)
 ###          Decipher the Message (https://courses.bigbinaryacademy.com/learn-javascript/exercises-set-12/decipher-the-secret-message/)
+
+### Day-292: Count Strongly Connected Components (https://www.geeksforgeeks.org/problems/strongly-connected-components-kosarajus-algo/1)
