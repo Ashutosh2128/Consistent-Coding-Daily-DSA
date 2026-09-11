@@ -653,3 +653,6 @@
 ### Day-292: Count Strongly Connected Components (https://www.geeksforgeeks.org/problems/strongly-connected-components-kosarajus-algo/1)
 
 ### Day-293: Course Schedule (https://leetcode.com/problems/course-schedule/description/)
+
+### Day-294: Course Schedule II (https://leetcode.com/problems/course-schedule-ii/description/)
+###          Unique 3-Digit Even Numbers (https://leetcode.com/problems/unique-3-digit-even-numbers/?envType=daily-question&envId=2026-09-11)
