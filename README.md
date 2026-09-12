@@ -656,3 +656,5 @@
 
 ### Day-294: Course Schedule II (https://leetcode.com/problems/course-schedule-ii/description/)
 ###          Unique 3-Digit Even Numbers (https://leetcode.com/problems/unique-3-digit-even-numbers/?envType=daily-question&envId=2026-09-11)
+
+### Day-295: Max Product Subsequence of Size K (https://www.geeksforgeeks.org/problems/maximum-product4633/1)
