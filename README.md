@@ -658,3 +658,6 @@
 ###          Unique 3-Digit Even Numbers (https://leetcode.com/problems/unique-3-digit-even-numbers/?envType=daily-question&envId=2026-09-11)
 
 ### Day-295: Max Product Subsequence of Size K (https://www.geeksforgeeks.org/problems/maximum-product4633/1)
+
+### Day-296: House Robber III (https://leetcode.com/problems/house-robber-iii/description/)
+###          Split an Array into N Chunks (https://courses.bigbinaryacademy.com/learn-javascript/exercises-set-12/split-an-array-into-n-chunks/)
