@@ -664,3 +664,6 @@
 
 ### Day-297: Word Ladder (https://leetcode.com/problems/word-ladder/)
 ###          Most Commonly Occurring Character (https://courses.bigbinaryacademy.com/learn-javascript/exercises-set-12/most-commonly-occurring-character/)
+
+### Day-298: Path With Minimum Effort (https://leetcode.com/problems/path-with-minimum-effort/)
+###          Longest Valid Brackets (https://courses.bigbinaryacademy.com/learn-javascript/exercises-set-12/longest-valid-brackets/)
