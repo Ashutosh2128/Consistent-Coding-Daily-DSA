@@ -667,3 +667,7 @@
 
 ### Day-298: Path With Minimum Effort (https://leetcode.com/problems/path-with-minimum-effort/)
 ###          Longest Valid Brackets (https://courses.bigbinaryacademy.com/learn-javascript/exercises-set-12/longest-valid-brackets/)
+
+### Day-299: Number of Provinces (https://leetcode.com/problems/number-of-provinces/description/)
+###          Merge Overlapping Intervals (https://courses.bigbinaryacademy.com/learn-javascript/exercises-set-12/merge-intervals/)
+###          Simplify Path (https://courses.bigbinaryacademy.com/learn-javascript/exercises-set-12/simplify-path/)
