@@ -674,3 +674,6 @@
 
 ### Day-300: Rotting Oranges (https://leetcode.com/problems/rotting-oranges/description/)
 ###          Count Substrings with Exactly K Distinct Characters (https://courses.bigbinaryacademy.com/learn-javascript/exercises-set-12/count-substrings-with-exactly-k-distinct-characters/)
+
+### Day-301: Reverse Degree of a String (https://leetcode.com/problems/reverse-degree-of-a-string/)
+###          Number of Intersecting Interval Pairs I (https://leetcode.com/problems/number-of-intersecting-interval-pairs-i/)
