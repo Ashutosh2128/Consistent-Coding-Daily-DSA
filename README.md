@@ -679,3 +679,5 @@
 ###          Number of Intersecting Interval Pairs I (https://leetcode.com/problems/number-of-intersecting-interval-pairs-i/)
 
 ### Day-302: Cheapest Flights Within K Stops (https://leetcode.com/problems/cheapest-flights-within-k-stops/description/)
+
+### Day-303: Longest Cycle in a Graph (https://leetcode.com/problems/longest-cycle-in-a-graph/)
