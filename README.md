@@ -681,3 +681,5 @@
 ### Day-302: Cheapest Flights Within K Stops (https://leetcode.com/problems/cheapest-flights-within-k-stops/description/)
 
 ### Day-303: Longest Cycle in a Graph (https://leetcode.com/problems/longest-cycle-in-a-graph/)
+
+### Day-304: Minimum Operations to Reduce X to Zero (https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/description/?envType=daily-question&envId=2026-09-23)
