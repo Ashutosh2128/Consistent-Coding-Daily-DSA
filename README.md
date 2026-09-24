@@ -683,3 +683,5 @@
 ### Day-303: Longest Cycle in a Graph (https://leetcode.com/problems/longest-cycle-in-a-graph/)
 
 ### Day-304: Minimum Operations to Reduce X to Zero (https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/description/?envType=daily-question&envId=2026-09-23)
+
+### Day-305: Fractional Knapsack (https://www.geeksforgeeks.org/problems/fractional-knapsack-1587115620/1)
