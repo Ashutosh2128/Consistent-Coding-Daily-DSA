@@ -685,3 +685,5 @@
 ### Day-304: Minimum Operations to Reduce X to Zero (https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/description/?envType=daily-question&envId=2026-09-23)
 
 ### Day-305: Fractional Knapsack (https://www.geeksforgeeks.org/problems/fractional-knapsack-1587115620/1)
+
+### Day-306: Maximum Meetings in One Room (https://www.geeksforgeeks.org/problems/maximum-meetings-in-one-room/1)
