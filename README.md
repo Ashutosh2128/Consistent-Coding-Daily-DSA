@@ -687,3 +687,9 @@
 ### Day-305: Fractional Knapsack (https://www.geeksforgeeks.org/problems/fractional-knapsack-1587115620/1)
 
 ### Day-306: Maximum Meetings in One Room (https://www.geeksforgeeks.org/problems/maximum-meetings-in-one-room/1)
+
+### Day-307: Minimum Queen Moves to Reach Target (https://leetcode.com/problems/minimum-queen-moves-to-reach-target/description/)
+###          Transform Array Using Pair Operations (https://leetcode.com/problems/transform-array-using-pair-operations/description/)
+
+### Day-308: Rearrange Array by Removing Distinct Values (https://leetcode.com/problems/rearrange-array-by-removing-distinct-values/submissions/2155078212/)
+###          Maximum Equal Adjacent Pairs After at Most One Replacement (https://leetcode.com/problems/maximum-equal-adjacent-pairs-after-at-most-one-replacement/submissions/2155080765/)
