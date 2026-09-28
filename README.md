@@ -693,3 +693,6 @@
 
 ### Day-308: Rearrange Array by Removing Distinct Values (https://leetcode.com/problems/rearrange-array-by-removing-distinct-values/submissions/2155078212/)
 ###          Maximum Equal Adjacent Pairs After at Most One Replacement (https://leetcode.com/problems/maximum-equal-adjacent-pairs-after-at-most-one-replacement/submissions/2155080765/)
+
+### Day-309: Maximum Nesting Depth of the Parentheses (https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/description/?envType=daily-question&envId=2026-09-28)
+###          Sliding Window Maximum (https://leetcode.com/problems/sliding-window-maximum/)
