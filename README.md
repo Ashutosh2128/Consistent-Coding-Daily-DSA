@@ -698,3 +698,5 @@
 ###          Sliding Window Maximum (https://leetcode.com/problems/sliding-window-maximum/)
 
 ### Day-310: Minimum Size Subarray Sum (https://leetcode.com/problems/minimum-size-subarray-sum/)
+
+### Day-311: Two Sum II - Input Array Is Sorted (https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/)
