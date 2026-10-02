@@ -702,3 +702,6 @@
 ### Day-311: Two Sum II - Input Array Is Sorted (https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/)
 
 ### Day-312: Minimum Window Substring (https://leetcode.com/problems/minimum-window-substring/description/)
+
+### Day-313: Generate Parentheses (https://leetcode.com/problems/generate-parentheses/description/?envType=daily-question&envId=2026-10-02)
+###          Power Set Using Recursion (https://www.geeksforgeeks.org/problems/power-set-using-recursion/1)
