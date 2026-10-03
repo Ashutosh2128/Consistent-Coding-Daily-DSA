@@ -705,3 +705,6 @@
 
 ### Day-313: Generate Parentheses (https://leetcode.com/problems/generate-parentheses/description/?envType=daily-question&envId=2026-10-02)
 ###          Power Set Using Recursion (https://www.geeksforgeeks.org/problems/power-set-using-recursion/1)
+
+### Day-314: Longest Valid Parentheses (https://leetcode.com/problems/longest-valid-parentheses/?envType=daily-question&envId=2026-10-03)
+###          Contains Duplicate (https://leetcode.com/problems/contains-duplicate/description/?utm=codolio)
