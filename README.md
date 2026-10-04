@@ -708,3 +708,7 @@
 
 ### Day-314: Longest Valid Parentheses (https://leetcode.com/problems/longest-valid-parentheses/?envType=daily-question&envId=2026-10-03)
 ###          Contains Duplicate (https://leetcode.com/problems/contains-duplicate/description/?utm=codolio)
+
+### Day-315: Minimum Rotations to Dial a Number I (https://leetcode.com/problems/minimum-rotations-to-dial-a-number-i/description/)
+###          Minimum Rotations to Dial a Number II (https://leetcode.com/problems/minimum-rotations-to-dial-a-number-ii/description/)
+###          Valid Parenthesis String (https://leetcode.com/problems/valid-parenthesis-string/description/?envType=daily-question&envId=2026-10-04)
