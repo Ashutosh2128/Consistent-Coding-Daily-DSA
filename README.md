@@ -712,3 +712,7 @@
 ### Day-315: Minimum Rotations to Dial a Number I (https://leetcode.com/problems/minimum-rotations-to-dial-a-number-i/description/)
 ###          Minimum Rotations to Dial a Number II (https://leetcode.com/problems/minimum-rotations-to-dial-a-number-ii/description/)
 ###          Valid Parenthesis String (https://leetcode.com/problems/valid-parenthesis-string/description/?envType=daily-question&envId=2026-10-04)
+
+### Day-316: Score of Parentheses (https://leetcode.com/problems/score-of-parentheses/description/?envType=daily-question&envId=2026-10-05)
+###          Group Anagrams (https://leetcode.com/problems/group-anagrams/description/?utm=codolio)
+###          Valid Anagram (https://leetcode.com/problems/valid-anagram/description/?utm=codolio)
