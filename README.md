@@ -716,3 +716,7 @@
 ### Day-316: Score of Parentheses (https://leetcode.com/problems/score-of-parentheses/description/?envType=daily-question&envId=2026-10-05)
 ###          Group Anagrams (https://leetcode.com/problems/group-anagrams/description/?utm=codolio)
 ###          Valid Anagram (https://leetcode.com/problems/valid-anagram/description/?utm=codolio)
+
+### Day-317: Minimum Add to Make Parentheses Valid (https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/description/?envType=daily-question&envId=2026-10-06)
+###          Top K Frequent Elements (https://leetcode.com/problems/top-k-frequent-elements/?utm=codolio)
+###          Product of Array Except Self (https://leetcode.com/problems/product-of-array-except-self/description/?utm=codolio)
