@@ -720,3 +720,6 @@
 ### Day-317: Minimum Add to Make Parentheses Valid (https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/description/?envType=daily-question&envId=2026-10-06)
 ###          Top K Frequent Elements (https://leetcode.com/problems/top-k-frequent-elements/?utm=codolio)
 ###          Product of Array Except Self (https://leetcode.com/problems/product-of-array-except-self/description/?utm=codolio)
+
+### Day-318: Remove Invalid Parentheses (https://leetcode.com/problems/remove-invalid-parentheses/description/?envType=daily-question&envId=2026-10-07)
+### Day-319: Longest Increasing Path in Matrix (https://www.geeksforgeeks.org/problems/longest-increasing-path-in-a-matrix/1)
