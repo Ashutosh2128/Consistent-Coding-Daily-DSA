@@ -723,3 +723,6 @@
 
 ### Day-318: Remove Invalid Parentheses (https://leetcode.com/problems/remove-invalid-parentheses/description/?envType=daily-question&envId=2026-10-07)
 ### Day-319: Longest Increasing Path in Matrix (https://www.geeksforgeeks.org/problems/longest-increasing-path-in-a-matrix/1)
+
+### Day-319: Remove Outermost Parentheses (https://leetcode.com/problems/remove-outermost-parentheses/description/?envType=daily-question&envId=2026-10-08)
+###          Maximum Frequency with K Increments (https://www.geeksforgeeks.org/problems/maximum-frequency-1662528911/1)
