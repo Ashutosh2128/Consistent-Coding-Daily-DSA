@@ -726,3 +726,6 @@
 
 ### Day-319: Remove Outermost Parentheses (https://leetcode.com/problems/remove-outermost-parentheses/description/?envType=daily-question&envId=2026-10-08)
 ###          Maximum Frequency with K Increments (https://www.geeksforgeeks.org/problems/maximum-frequency-1662528911/1)
+
+### Day-320: Minimum Insertions to Balance a Parentheses String (https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string/?envType=daily-question&envId=2026-10-09)
+###          Minimum Operations to Reach n (https://www.geeksforgeeks.org/problems/find-optimum-operation4504/1)
