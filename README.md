@@ -729,3 +729,14 @@
 
 ### Day-320: Minimum Insertions to Balance a Parentheses String (https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string/?envType=daily-question&envId=2026-10-09)
 ###          Minimum Operations to Reach n (https://www.geeksforgeeks.org/problems/find-optimum-operation4504/1)
+
+### Day-321: Minimum Sum of Squared Difference (https://leetcode.com/problems/minimum-sum-of-squared-difference/description/?envType=daily-question&envId=2026-10-10)
+###          Maximum Product Pair With Target Sum (https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/)
+###          Longest Resilient Subarray I ()
+
+### Day-322: Three Fibonacci Sum ()
+###          Prime Subset Selection I ()
+###          Design Bus Seat Booking System ()
+###          Sum of Squares of Special Elements (https://leetcode.com/problems/sum-of-squares-of-special-elements/description/?envType=daily-question&envId=2026-10-11)
+
+### Day-323: Apply Operations on Array to Maximize Sum of Squares (https://leetcode.com/problems/apply-operations-on-array-to-maximize-sum-of-squares/description/?envType=daily-question&envId=2026-10-12)
