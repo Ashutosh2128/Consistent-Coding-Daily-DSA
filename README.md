@@ -741,3 +741,6 @@
 
 ### Day-323: Apply Operations on Array to Maximize Sum of Squares (https://leetcode.com/problems/apply-operations-on-array-to-maximize-sum-of-squares/description/?envType=daily-question&envId=2026-10-12)
 ###          Maximum Alternating Sum of Squares (https://leetcode.com/problems/maximum-alternating-sum-of-squares/description/?envType=daily-question&envId=2026-10-13)
+
+### Day-324: Maximize Sum of Squares of Digits (https://leetcode.com/problems/maximize-sum-of-squares-of-digits/?envType=daily-question&envId=2026-10-14)
+###          Min Stack (https://leetcode.com/problems/min-stack/?utm=codolio)
