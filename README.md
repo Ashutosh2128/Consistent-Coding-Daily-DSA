@@ -744,3 +744,7 @@
 
 ### Day-324: Maximize Sum of Squares of Digits (https://leetcode.com/problems/maximize-sum-of-squares-of-digits/?envType=daily-question&envId=2026-10-14)
 ###          Min Stack (https://leetcode.com/problems/min-stack/?utm=codolio)
+
+### Day-325: Subarrays Distinct Element Sum of Squares I (https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-i/?envType=daily-question&envId=2026-10-15)
+###          Valid Palindrome (https://leetcode.com/problems/valid-palindrome/description/?utm=codolio)
+###          Container With Most Water (https://leetcode.com/problems/container-with-most-water/description/?utm=codolio)
