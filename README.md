@@ -748,3 +748,5 @@
 ### Day-325: Subarrays Distinct Element Sum of Squares I (https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-i/?envType=daily-question&envId=2026-10-15)
 ###          Valid Palindrome (https://leetcode.com/problems/valid-palindrome/description/?utm=codolio)
 ###          Container With Most Water (https://leetcode.com/problems/container-with-most-water/description/?utm=codolio)
+
+### Day-326: 3Sum (https://leetcode.com/problems/3sum/description/?utm=codolio)
