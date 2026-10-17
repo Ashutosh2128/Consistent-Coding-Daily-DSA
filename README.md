@@ -750,3 +750,5 @@
 ###          Container With Most Water (https://leetcode.com/problems/container-with-most-water/description/?utm=codolio)
 
 ### Day-326: 3Sum (https://leetcode.com/problems/3sum/description/?utm=codolio)
+
+### Day-327: Minimum Swaps to Sort by Digit Sum (https://leetcode.com/problems/minimum-swaps-to-sort-by-digit-sum/?envType=daily-question&envId=2026-10-17)
