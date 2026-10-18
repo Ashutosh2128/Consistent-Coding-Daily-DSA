@@ -752,3 +752,7 @@
 ### Day-326: 3Sum (https://leetcode.com/problems/3sum/description/?utm=codolio)
 
 ### Day-327: Minimum Swaps to Sort by Digit Sum (https://leetcode.com/problems/minimum-swaps-to-sort-by-digit-sum/?envType=daily-question&envId=2026-10-17)
+
+### Day-328: Minimum Deletions to Make Array Sharp ()
+###          Last Visited Cell in a Directional Grid ()
+###          Find Root of a Colored Tree ()
