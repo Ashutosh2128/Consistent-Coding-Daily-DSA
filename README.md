@@ -753,7 +753,9 @@
 
 ### Day-327: Minimum Swaps to Sort by Digit Sum (https://leetcode.com/problems/minimum-swaps-to-sort-by-digit-sum/?envType=daily-question&envId=2026-10-17)
 
-### Day-328: Minimum Deletions to Make Array Sharp ()
-###          Last Visited Cell in a Directional Grid ()
+### Day-328: Minimum Deletions to Make Array Sharp (https://leetcode.com/problems/minimum-deletions-to-make-array-sharp/submissions/2175487105/)
+###          Last Visited Cell in a Directional Grid (https://leetcode.com/problems/last-visited-cell-in-a-directional-grid/description/)
 ###          Find Root of a Colored Tree ()
 ###          Shortest Path From 1 To n (https://www.geeksforgeeks.org/problems/shortest-path-from-1-to-n0156/1)
+
+### Day-329: Find Target Indices After Sorting Array (https://leetcode.com/problems/find-target-indices-after-sorting-array/description/?envType=daily-question&envId=2026-10-19)
