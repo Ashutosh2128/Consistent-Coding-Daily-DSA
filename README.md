@@ -759,3 +759,5 @@
 ###          Shortest Path From 1 To n (https://www.geeksforgeeks.org/problems/shortest-path-from-1-to-n0156/1)
 
 ### Day-329: Find Target Indices After Sorting Array (https://leetcode.com/problems/find-target-indices-after-sorting-array/description/?envType=daily-question&envId=2026-10-19)
+
+### Day-330: Daily Temperatures (https://leetcode.com/problems/daily-temperatures/description/?utm=codolio)
