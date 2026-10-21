@@ -761,3 +761,5 @@
 ### Day-329: Find Target Indices After Sorting Array (https://leetcode.com/problems/find-target-indices-after-sorting-array/description/?envType=daily-question&envId=2026-10-19)
 
 ### Day-330: Daily Temperatures (https://leetcode.com/problems/daily-temperatures/description/?utm=codolio)
+
+### Day-331: Minimum Operations to Sort a String (https://leetcode.com/problems/minimum-operations-to-sort-a-string/description/?envType=daily-question&envId=2026-10-21)
