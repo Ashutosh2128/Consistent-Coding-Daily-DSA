@@ -776,3 +776,5 @@
 ###          Maximize Sum After At Most K Digit Rearrangements ()
 ###          Count Frequency Staircase Subarrays I ()
 ###          Number of Closed Islands (https://leetcode.com/problems/number-of-closed-islands/description/?envType=daily-question&envId=2026-10-25)
+
+### Day-336: Create Grid With Exactly One Path (https://leetcode.com/problems/create-grid-with-exactly-one-path/description/?envType=daily-question&envId=2026-10-27)
