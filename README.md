@@ -780,3 +780,5 @@
 ### Day-336: Create Grid With Exactly One Path (https://leetcode.com/problems/create-grid-with-exactly-one-path/description/?envType=daily-question&envId=2026-10-27)
 
 ### Day-337: Minimum XOR Path in a Grid (https://leetcode.com/problems/minimum-xor-path-in-a-grid/description/?envType=daily-question&envId=2026-10-28)
+
+### Day-338: Optimal File Merge (https://www.geeksforgeeks.org/problems/optimal-file-merge/1)
