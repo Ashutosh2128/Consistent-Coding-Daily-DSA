@@ -782,3 +782,5 @@
 ### Day-337: Minimum XOR Path in a Grid (https://leetcode.com/problems/minimum-xor-path-in-a-grid/description/?envType=daily-question&envId=2026-10-28)
 
 ### Day-338: Optimal File Merge (https://www.geeksforgeeks.org/problems/optimal-file-merge/1)
+
+### Day-339: Search a 2D Matrix (https://leetcode.com/problems/search-a-2d-matrix/description/?utm=codolio)
