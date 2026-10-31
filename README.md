@@ -784,3 +784,5 @@
 ### Day-338: Optimal File Merge (https://www.geeksforgeeks.org/problems/optimal-file-merge/1)
 
 ### Day-339: Search a 2D Matrix (https://leetcode.com/problems/search-a-2d-matrix/description/?utm=codolio)
+
+### Day-340: Twisted Mirror Path Count (https://leetcode.com/problems/twisted-mirror-path-count/?envType=daily-question&envId=2026-10-31)
