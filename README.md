@@ -786,3 +786,7 @@
 ### Day-339: Search a 2D Matrix (https://leetcode.com/problems/search-a-2d-matrix/description/?utm=codolio)
 
 ### Day-340: Twisted Mirror Path Count (https://leetcode.com/problems/twisted-mirror-path-count/?envType=daily-question&envId=2026-10-31)
+
+### Day-341: Minimize the Maximum Value of GCD-Connected Array ()
+###          Minimum Value of Merged Integers ()
+###          Minimum Moves to Equal Array Elements (https://leetcode.com/problems/minimum-moves-to-equal-array-elements/?envType=daily-question&envId=2026-11-01)
