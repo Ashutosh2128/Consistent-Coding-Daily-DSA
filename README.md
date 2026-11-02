@@ -790,3 +790,5 @@
 ### Day-341: Minimize the Maximum Value of GCD-Connected Array ()
 ###          Minimum Value of Merged Integers ()
 ###          Minimum Moves to Equal Array Elements (https://leetcode.com/problems/minimum-moves-to-equal-array-elements/?envType=daily-question&envId=2026-11-01)
+
+### Day-342: Minimum Moves to Equal Array Elements II (https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/description/?envType=daily-question&envId=2026-11-02)
