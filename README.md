@@ -792,3 +792,7 @@
 ###          Minimum Moves to Equal Array Elements (https://leetcode.com/problems/minimum-moves-to-equal-array-elements/?envType=daily-question&envId=2026-11-01)
 
 ### Day-342: Minimum Moves to Equal Array Elements II (https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/description/?envType=daily-question&envId=2026-11-02)
+
+### Day-343: Minimum Moves to Equal Array Elements III (https://leetcode.com/problems/minimum-moves-to-equal-array-elements-iii/description/?envType=daily-question&envId=2026-11-03)
+###          Maximum Depth of Binary Tree (https://leetcode.com/problems/maximum-depth-of-binary-tree/?utm=codolio)
+###          Invert Binary Tree (https://leetcode.com/problems/invert-binary-tree/?utm=codolio)
