@@ -798,3 +798,6 @@
 ###          Invert Binary Tree (https://leetcode.com/problems/invert-binary-tree/?utm=codolio)
 
 ### Day-344: Binary Tree Level Order Traversal (https://leetcode.com/problems/binary-tree-level-order-traversal/description/?utm=codolio)
+
+### Day-345: Find the Distance Value Between Two Arrays (https://leetcode.com/problems/find-the-distance-value-between-two-arrays/description/?envType=daily-question&envId=2026-11-05)
+###          Binary Tree Right Side View (https://leetcode.com/problems/binary-tree-right-side-view/?utm=codolio)
