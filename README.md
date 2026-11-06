@@ -801,3 +801,5 @@
 
 ### Day-345: Find the Distance Value Between Two Arrays (https://leetcode.com/problems/find-the-distance-value-between-two-arrays/description/?envType=daily-question&envId=2026-11-05)
 ###          Binary Tree Right Side View (https://leetcode.com/problems/binary-tree-right-side-view/?utm=codolio)
+
+### Day-346: Count Zero Request Servers (https://leetcode.com/problems/count-zero-request-servers/description/?envType=daily-question&envId=2026-11-06)
