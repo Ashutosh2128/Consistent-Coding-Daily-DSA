@@ -803,3 +803,7 @@
 ###          Binary Tree Right Side View (https://leetcode.com/problems/binary-tree-right-side-view/?utm=codolio)
 
 ### Day-346: Count Zero Request Servers (https://leetcode.com/problems/count-zero-request-servers/description/?envType=daily-question&envId=2026-11-06)
+
+### Day-347: Count Good Nodes in Binary Treen (https://leetcode.com/problems/count-good-nodes-in-binary-tree/description/?utm=codolio)
+###          Count Valid Substrings I ()
+###          Count Valid Substrings II ()
