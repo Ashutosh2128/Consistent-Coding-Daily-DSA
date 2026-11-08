@@ -807,3 +807,6 @@
 ### Day-347: Count Good Nodes in Binary Treen (https://leetcode.com/problems/count-good-nodes-in-binary-tree/description/?utm=codolio)
 ###          Count Valid Substrings I ()
 ###          Count Valid Substrings II ()
+
+### Day-348: Find Mismatched Segments Between Two Strings
+###          Count Servers that Communicate (https://leetcode.com/problems/count-servers-that-communicate/description/?envType=daily-question&envId=2026-11-08)
