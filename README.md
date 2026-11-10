@@ -810,3 +810,6 @@
 
 ### Day-348: Find Mismatched Segments Between Two Strings
 ###          Count Servers that Communicate (https://leetcode.com/problems/count-servers-that-communicate/description/?envType=daily-question&envId=2026-11-08)
+
+### Day-349: Validate Binary Search Tree (https://leetcode.com/problems/validate-binary-search-tree/description/?utm=codolio)
+###          Kth Smallest Element in a BST (https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/?utm=codolio)
