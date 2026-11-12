@@ -813,3 +813,6 @@
 
 ### Day-349: Validate Binary Search Tree (https://leetcode.com/problems/validate-binary-search-tree/description/?utm=codolio)
 ###          Kth Smallest Element in a BST (https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/?utm=codolio)
+
+### Day-350: Construct Binary Tree from Preorder and Inorder Traversal (https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/description/?utm=codolio)
+###          Longest Strictly Increasing or Strictly Decreasing Subarray (https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray/description/?envType=daily-question&envId=2026-11-12)
