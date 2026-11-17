@@ -825,3 +825,5 @@
 
 ### Day-354: Binary Tree Maximum Path Sum (https://leetcode.com/problems/binary-tree-maximum-path-sum/description/?utm=codolio)
 ###          Calculate Digit Sum of a String (https://leetcode.com/problems/calculate-digit-sum-of-a-string/description/?envType=daily-question&envId=2026-11-16)
+
+### Day-355: Serialize and Deserialize Binary Tree (https://leetcode.com/problems/serialize-and-deserialize-binary-tree/description/?utm=codolio)
