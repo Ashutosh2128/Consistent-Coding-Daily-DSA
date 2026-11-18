@@ -827,3 +827,6 @@
 ###          Calculate Digit Sum of a String (https://leetcode.com/problems/calculate-digit-sum-of-a-string/description/?envType=daily-question&envId=2026-11-16)
 
 ### Day-355: Serialize and Deserialize Binary Tree (https://leetcode.com/problems/serialize-and-deserialize-binary-tree/description/?utm=codolio)
+
+### Day-356: Median of Two Sorted Arrays (https://leetcode.com/problems/median-of-two-sorted-arrays/description/?utm=codolio)
+###          Minimum Number of Changes to Make Binary String Beautiful (https://leetcode.com/problems/minimum-number-of-changes-to-make-binary-string-beautiful/description/?envType=daily-question&envId=2026-11-18)
