@@ -830,3 +830,5 @@
 
 ### Day-356: Median of Two Sorted Arrays (https://leetcode.com/problems/median-of-two-sorted-arrays/description/?utm=codolio)
 ###          Minimum Number of Changes to Make Binary String Beautiful (https://leetcode.com/problems/minimum-number-of-changes-to-make-binary-string-beautiful/description/?envType=daily-question&envId=2026-11-18)
+
+### Day-357: Minimum Score by Changing Two Elements (https://leetcode.com/problems/minimum-score-by-changing-two-elements/description/?envType=daily-question&envId=2026-11-19)
