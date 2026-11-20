@@ -832,3 +832,6 @@
 ###          Minimum Number of Changes to Make Binary String Beautiful (https://leetcode.com/problems/minimum-number-of-changes-to-make-binary-string-beautiful/description/?envType=daily-question&envId=2026-11-18)
 
 ### Day-357: Minimum Score by Changing Two Elements (https://leetcode.com/problems/minimum-score-by-changing-two-elements/description/?envType=daily-question&envId=2026-11-19)
+
+### Day-358: Maximize Consecutive Elements in an Array After Modification (https://leetcode.com/problems/maximize-consecutive-elements-in-an-array-after-modification/?envType=daily-question&envId=2026-11-20)
+###          Min Flips for Alternate (https://www.geeksforgeeks.org/problems/min-number-of-flips3210/1)
