@@ -837,3 +837,5 @@
 ###          Min Flips for Alternate (https://www.geeksforgeeks.org/problems/min-number-of-flips3210/1)
 
 ### Day-359: Smallest Subarray Sum Greater Than x (https://www.geeksforgeeks.org/problems/smallest-subarray-with-sum-greater-than-x5651/1)
+###          Assign Umbrella on Rainy Days ()
+###          Minimum Range After Sum Operations ()
