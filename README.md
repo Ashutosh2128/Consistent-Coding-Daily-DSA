@@ -835,3 +835,5 @@
 
 ### Day-358: Maximize Consecutive Elements in an Array After Modification (https://leetcode.com/problems/maximize-consecutive-elements-in-an-array-after-modification/?envType=daily-question&envId=2026-11-20)
 ###          Min Flips for Alternate (https://www.geeksforgeeks.org/problems/min-number-of-flips3210/1)
+
+### Day-359: Smallest Subarray Sum Greater Than x (https://www.geeksforgeeks.org/problems/smallest-subarray-with-sum-greater-than-x5651/1)
