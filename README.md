@@ -846,3 +846,6 @@
 ### Day-361: Product of the Last K Numbers (https://leetcode.com/problems/product-of-the-last-k-numbers/description/?envType=daily-question&envId=2026-11-23)
 
 ### Day-362: Trapping Rain Water (https://leetcode.com/problems/trapping-rain-water/description/?utm=codolio)
+
+### Day-363: Longest Substring Without Repeating Characters (https://leetcode.com/problems/longest-substring-without-repeating-characters/description/?utm=codolio)
+###          Stone Removal Game (https://leetcode.com/problems/stone-removal-game/description/?envType=daily-question&envId=2026-11-26)
