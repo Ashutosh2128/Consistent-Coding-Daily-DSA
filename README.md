@@ -849,3 +849,5 @@
 
 ### Day-363: Longest Substring Without Repeating Characters (https://leetcode.com/problems/longest-substring-without-repeating-characters/description/?utm=codolio)
 ###          Stone Removal Game (https://leetcode.com/problems/stone-removal-game/description/?envType=daily-question&envId=2026-11-26)
+
+### Day-364: Count Edges in Graph (https://www.geeksforgeeks.org/problems/count-number-of-edges-in-an-undirected-graph/1)
