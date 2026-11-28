@@ -851,3 +851,5 @@
 ###          Stone Removal Game (https://leetcode.com/problems/stone-removal-game/description/?envType=daily-question&envId=2026-11-26)
 
 ### Day-364: Count Edges in Graph (https://www.geeksforgeeks.org/problems/count-number-of-edges-in-an-undirected-graph/1)
+
+### Day-365: Longest Consecutive Sequence (https://leetcode.com/problems/longest-consecutive-sequence/description/)
